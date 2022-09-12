@@ -1,5 +1,5 @@
 import { ChevronRightIcon, StarIcon } from "@heroicons/react/20/solid";
-import { SVGProps } from "react";
+import type { SVGProps } from "react";
 
 const stats = [
   { label: "Founded", value: "2021" },
