@@ -10,8 +10,6 @@
 
 - Run `npm run generate:css` to pull all generated css from the inline styles and output a css file. Note this file is consumed in the root.ts file.
 
-- Run `npm run dev:css` for live reloading styles.
-
 ## prisma.io
 
 - Run `npx prisma init --datasource-provider sqlite` to add sqlite db provider.
