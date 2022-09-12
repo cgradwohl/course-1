@@ -1,6 +1,12 @@
-# Welcome to Remix!
+# Course-1
 
-- [Remix Docs](https://remix.run/docs)
+## Remix
+
+## Tailwind
+
+## Prisma
+
+- Run `npx prisma db push` to update schema and create any new tables or keys.
 
 ## Fly Setup
 
