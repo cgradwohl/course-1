@@ -1,5 +1,14 @@
 # Course-1
 
+## TODO
+
+- [] Docker Image
+- [] Staging and Production GHA
+- [] Write Copy
+- [] Add illustrations and improve design look and feel.
+- [] Auth Login: Magic Login, Add Login Button to Nav ?
+- [] add the main video viewing page
+
 ## remix.run
 
 - This app was created with `npx create-remix@latest` and bootstrapped with Typescript and fly.io support.
