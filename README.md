@@ -2,10 +2,19 @@
 
 ## remix.run
 
+- This app was created with `npx create-remix@latest` and bootstrapped with Typescript and fly.io support.
+
 ## tailwindcss.com
+
+- Run `build:css` to pull all generated css from the inline styles and output a minified css file. Note this file is consumed in the root.ts file.
+
+- Run `npm run generate:css` to pull all generated css from the inline styles and output a css file. Note this file is consumed in the root.ts file.
+
+- Run `npm run dev:css` for live reloading styles.
 
 ## prisma.io
 
+- Run `npx prisma init --datasource-provider sqlite` to add sqlite db provider.
 - Run `npx prisma db push` to update schema and create any new tables or keys.
 
 ## fly.io
