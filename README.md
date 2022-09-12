@@ -1,14 +1,14 @@
 # Course-1
 
-## Remix
+## remix.run
 
-## Tailwind
+## tailwindcss.com
 
-## Prisma
+## prisma.io
 
 - Run `npx prisma db push` to update schema and create any new tables or keys.
 
-## Fly Setup
+## fly.io
 
 1. [Install `flyctl`](https://fly.io/docs/getting-started/installing-flyctl/)
 
@@ -23,6 +23,10 @@ flyctl auth signup
 ```sh
 flyctl launch
 ```
+
+## github actions
+
+## docker image
 
 ## Development
 
