@@ -24,13 +24,13 @@ export default function App() {
   return (
     <html
       lang="en"
-      className="dark:bg-slate-800 dark:text-slate-200 bg-white text-black"
+      className="dark:bg-slate-800 dark:text-slate-200 bg-white text-black h-full"
     >
       <head>
         <Meta />
         <Links />
       </head>
-      <body>
+      <body className="h-full">
         <Outlet />
         <ScrollRestoration />
         <Scripts />

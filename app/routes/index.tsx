@@ -337,7 +337,11 @@ export default () => {
               Ac euismod vel sit maecenas id pellentesque eu sed consectetur.
               Malesuada adipiscing sagittis vel nulla nec.
             </p>
-            <form className="flex flex-col items-center" action="">
+            <form
+              className="flex flex-col items-center"
+              action="course"
+              method="get"
+            >
               <label htmlFor="email" className="sr-only">
                 Name
               </label>
@@ -364,7 +368,7 @@ export default () => {
                 type="submit"
                 className="rounded-md mt-4 border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >
-                Button text
+                Sign Up For Free
               </button>
             </form>
           </div>
